@@ -1,7 +1,10 @@
+
+![iPhone-12-PRO-localhost](https://github.com/user-attachments/assets/c3262405-11c2-4bcd-9878-cd27ebdf65a5)
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 
 First, run the development server:
 
